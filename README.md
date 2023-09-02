@@ -18,7 +18,7 @@ Cette page présente des statistiques détaillées concernant les demandes de pr
 
 
 
-Page "Performance des Agences"
+ 2. Page "Performance des Agences"
 
 Cette page permet de comparer la performance des différentes agences du Crédit Breton :
 
@@ -27,12 +27,12 @@ Cette page permet de comparer la performance des différentes agences du Crédit
 •	Classement des Agences par Nombre de Demandes : Obtenez un classement des agences en fonction du nombre de demandes reçues.
 •	Taux d'Acceptation des Prêts par Agence : Analysez le taux d'acceptation des prêts pour chaque agence.
  
-Page "Indicateurs Clients"
+ 3. Page "Indicateurs Clients"
 
 Cette page met en avant les informations relatives aux clients :
 •	Date de Naissance et Demandes de Prêts : Visualisez la corrélation entre la date de naissance des clients et le nombre de demandes de prêts.
  
-Page "Liste Clients"
+ 4. Page "Liste Clients"
 
 Cette page offre une vue détaillée de la situation des clients et de leurs demandes de prêts.
  
